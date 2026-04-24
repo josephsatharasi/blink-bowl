@@ -8,10 +8,10 @@ const Sidebar = ({ isOpen, toggleSidebar }) => {
     { path: '/products', icon: FaBox, label: 'Products' },
     { path: '/orders', icon: FaShoppingCart, label: 'Orders' },
     { path: '/customers', icon: FaUsers, label: 'Customers' },
-    { path: '/categories', icon: FaTags, label: 'Categories' },
-    { path: '/inventory', icon: FaClipboardList, label: 'Inventory' },
-    { path: '/analytics', icon: FaChartBar, label: 'Analytics' },
-    { path: '/settings', icon: FaCog, label: 'Settings' },
+    // { path: '/categories', icon: FaTags, label: 'Categories' },
+    // { path: '/inventory', icon: FaClipboardList, label: 'Inventory' },
+    // { path: '/analytics', icon: FaChartBar, label: 'Analytics' },
+    // { path: '/settings', icon: FaCog, label: 'Settings' },
   ];
 
   return (
